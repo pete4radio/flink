@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "FREERTOS_KERNEL",
+		"source" : "C:/Users/petek/Documents/pico/FreeRTOS_PICO2350/src/FreeRTOS/portable/ThirdParty/GCC/RP2350_ARM_NTZ"
+	}
+}
